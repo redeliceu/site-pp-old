@@ -1,0 +1,277 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+html {font-size: 100%;}
+body {font-size: 11px;}
+
+a img {
+	border: none;
+}
+
+a {
+	text-decoration: none;
+	/*border-bottom: 1px dotted #ff7200;*/
+	color: #1c1c1c;
+}
+
+a:visited {
+	text-decoration: none;
+	/*border-bottom: 1px dotted #ff7200;*/
+	color: #58595b;
+}
+
+a:hover {
+	color: #58595b;
+	text-decoration: underline;
+}
+
+body, html {
+	width: 100%;
+	height: 100%;
+	color: #dcdada;
+	font-family: Arial, Helvetica, sans-serif;
+	text-align: justify;
+	text-align:center; /* hack para o IE */
+	background: url('../images/fundo-body.jpg') #74ccea repeat-x fixed;
+	cursor:url('../images/Fada.ani');
+}
+
+td, p {
+	color: #1c1c1c;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	text-align: justify;
+}
+
+div#conteudo {
+	position: relative;
+	margin:0 auto;
+	width: 1016px;
+	background: transparent;
+	text-align:left; /* "remédio" para o hack do IE */
+}
+
+.sombra-esquerda {
+	background: url('../images/sombra-esquerda.png') repeat-y right top;
+}
+
+.sombra-direita {
+	background: url('../images/sombra-direita.png') repeat-y left top;
+}
+
+.sombra-esquerda-superior {
+	background: url('../images/sombra-esquerda-superior.png') repeat-y right top;
+}
+
+.sombra-direita-superior {
+	background: url('../images/sombra-direita-superior.png') repeat-y left top;
+}
+
+.fundo-conteudo {
+	background: url('../images/fundo-conteudo-879x240.jpg') #e4e3e3 no-repeat center top;
+}
+
+/* ---------------------------------------------------------------------------------
+		NOTIFICATIONS
+--------------------------------------------------------------------------------- */
+.sucesso, .falha, .information, .attention {
+	margin-top: 15px; margin-bottom: 15px;
+	background-repeat: no-repeat; background-position: 10px center;
+	padding: 10px 10px 10px 40px;
+	font-weight: bold; text-transform: uppercase; font-size: 11px;
+	line-height: 20px;
+	margin-right:auto;
+	margin-left:auto;
+	
+}
+/* Succes Notification Box */
+.sucesso 				{
+	background-color: #E3FFDF;
+	border: 1px solid #97FF88;
+	color: #009900;
+	background-image: url(../images/success.png);
+}
+/* Failure Notification Box */
+.falha 					{
+	background-color: #FFE1E1;
+	border: 1px solid #FF9595;
+	color: #CC3300;
+	background-image: url(../images/fail.png);
+}
+.obfield				{
+	border-color: red !important;
+	border: 1px solid #FF9595;
+
+}
+
+/* Information Notification Box */
+.information 			{
+	background-color: #D7DFFF;
+	border: 1px solid #93A8FF;
+	color: #0033FF;
+	background-image: url(../images/information.png);
+}
+/* Attention Notification Box */
+.attention 		{ background-color: #FFFBCC; border: 1px solid #FFF35E;color: #C69E00; background-image: url(../images/error.png);}
+
+/* ---------------------------------------------------------------------------------
+		FORMS
+--------------------------------------------------------------------------------- */
+.very-small			{ width: 3%;}
+.small			{ width: 15%;}
+.medium 			{ width: 35%;}
+.large			{ width: 60%;}
+.x-large			{ width: 80%;}
+.full			{ width: 98%;}
+
+label 		{ font-weight: bold; font-size: 13px; display: block;}
+p 			{ padding: 0px; margin: 0px;}
+.input 		{ margin: 0px 0px 0px 0px;border: 1px solid #CCCCCC;padding: 1px;background-color: #F3F3F3; }
+.input-sb 		{ margin: 0px 0px 0px 0px;border: 0px solid #CCCCCC;padding: 2px 2px 2px 2px;background-color:transparent; height:20px;color:#9b9898;font-size:12px;}
+select 		{ padding: 0px;margin: 0px;}
+
+.input-p { 
+	margin: 0px 2px 0px 2px;
+	border: 1px solid #CCCCCC;
+	padding: 3px 4px 3px 4px;
+	background-color: #F3F3F3; 
+}
+
+.button	{
+	background-color: #D6D6D6;
+	color: #666666;
+	font-weight: bold;
+	border: 1px solid #CCCCCC;
+	margin-top: 7px;
+	margin-bottom: 7px;
+	padding: 5px 7px 5px 7px;
+}
+
+.button-on	{
+	background-color: #ffffff;
+	color: #666666;
+	font-weight: bold;
+	border: 1px solid #CCCCCC;
+	margin-top: 7px;
+	margin-bottom: 7px;
+	padding: 5px 7px 5px 7px;
+}
+
+.button-p	{
+	background-color: #D6D6D6;
+	color: #666666;
+	font-size:11px;
+	font-weight: bold;
+	border: 1px solid #CCCCCC;
+	margin-top: 2px;
+	margin-bottom: 2px;
+	padding: 2px 4px 3px 4px;
+}
+
+.checkbox 				{ padding: 0px;height: 15px;width: 18px;margin: 0 5px 0 5px;}
+.select					{ width: 20%;padding: 2px;margin: 0px;}
+.radio					{ height: 15px; width: 15px; padding: 0px; margin: 0 5px 0 5px;}
+
+.styled_textarea			{ margin-bottom: 10px; background-color: #F3F3F3; width: 95%; padding: 0px; border: 1px solid #CCCCCC;}
+
+.titulo {
+	font-size: 18px;
+	font-weight: bold;
+	color: #333333;
+}
+
+.menu-rapido { padding: 7px; font-size: 15px; font-weight: bold; color: #333333; margin: 0px 0px 10px 0px;border:1px solid #b6d5f3;background: #d9e9f9;}
+
+.esp-8 {
+	padding: 8px;
+}
+
+.esp-2 {
+	padding: 2px;
+}
+
+.fundo-conteudo-cima {
+	background: url('../images/fundo-conteudo-com-sombras-cima-857.png') no-repeat center top;
+}
+
+.fundo-conteudo-meio {
+	background: #ffffff;
+}
+
+.fundo-conteudo-meio-canto-esquerdo {
+	background: url('../images/fundo-conteudo-com-sombras-meio-canto-esquerdo.png') repeat-y center top;
+}
+
+.fundo-conteudo-meio-canto-direito {
+	background: url('../images/fundo-conteudo-com-sombras-meio-canto-direito.png') repeat-y center top;
+}
+
+.fundo-conteudo-baixo {
+	background: url('../images/fundo-conteudo-com-sombras-baixo-857.png') no-repeat center bottom;
+}
+
+.submenu-1 {
+	position:absolute;
+	top:55px;
+	left:147px;
+	background-color:#0271da;
+	color:#fff;
+	line-height:26px;
+	padding:0 15px;
+	z-index:99;
+	display:none;
+}
+
+	.submenu-1 a {
+		color:#fff;
+	}
+
+.depoimento {
+	padding:10px;
+}
+
+.fundo-depoimento-cinza {
+	background-color:#f9f9f9;
+}
+
+	.depoimento .col-a {
+		float:left;
+		width:268px;
+	}
+
+	.depoimento .col-b {
+		float:left;
+		margin-left:30px;
+		width:610px;
+		font-size:11px;
+	}
+
+	.depoimento .col-c {
+		float:left;
+		width:50%;
+	}
+
+	.depoimento .col-d {
+		float:right;
+		width:50%;
+		text-align:right;
+	}
+
+.diferencial {
+	
+}
+
+	.diferencial .col-a {
+		float:left;
+		width:191px;
+	}
+
+	.diferencial .col-b {
+		float:left;
+		margin-left:10px;
+		width:707px;
+		font-size:13px;
+		line-height:18px;
+	}

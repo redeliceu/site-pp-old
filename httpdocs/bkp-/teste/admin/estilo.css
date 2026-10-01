@@ -1,0 +1,177 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+html {font-size: 100%;}
+body {font-size: 12px;}
+
+a img {
+	border: none;
+}
+
+a {
+	text-decoration: none;
+	/*border-bottom: 1px dotted #ff7200;*/
+	color: #5a5a5a;
+}
+
+a:visited {
+	text-decoration: none;
+	/*border-bottom: 1px dotted #ff7200;*/
+	color: #5a5a5a;
+}
+
+a:hover {
+	color: #5a5a5a;
+	text-decoration: underline;
+}
+
+body, html {
+	width: 100%;
+	height: 100%;
+	color: #5a5a5a;
+	font-family: Arial, Helvetica, sans-serif;
+	line-height: 10px;
+	text-align: left;
+	text-align:center; /* hack para o IE */
+	background: #E7E7E7;
+}
+
+td, p {
+	color: #5a5a5a;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	text-align: left;
+}
+
+div#conteudo {
+	position: relative;
+	margin:0 auto;
+	width: 1020px;
+	background: transparent;
+	text-align:left; /* "remédio" para o hack do IE */
+}
+
+/* ---------------------------------------------------------------------------------
+		NOTIFICATIONS
+--------------------------------------------------------------------------------- */
+.sucesso, .falha, .informacao, .atencao {
+	margin-top: 15px; margin-bottom: 15px;
+	background-repeat: no-repeat; background-position: 10px center;
+	padding: 10px 10px 10px 40px;
+	font-weight: bold; text-transform: uppercase; font-size: 11px;
+	line-height: 20px;
+	margin-right:auto;
+	margin-left:auto;
+	
+}
+/* Succes Notification Box */
+.sucesso 				{
+	background-color: #E3FFDF;
+	border: 1px solid #97FF88;
+	color: #009900;
+	background-image: url(images/icone-sucesso.png);
+}
+/* Failure Notification Box */
+.falha 					{
+	background-color: #FFE1E1;
+	border: 1px solid #FF9595;
+	color: #CC3300;
+	background-image: url(images/icone-falha.png);
+}
+.campo_obrigatorio				{
+	border-color: red !important;
+	border: 1px solid #FF9595;
+
+}
+
+/* Information Notification Box */
+.informacao 			{
+	background-color: #D7DFFF;
+	border: 1px solid #93A8FF;
+	color: #0033FF;
+	background-image: url(images/icone-informacao.png);
+}
+/* Attention Notification Box */
+.atencao 		{ background-color: #FFFBCC; border: 1px solid #FFF35E;color: #C69E00; background-image: url(images/error.png);}
+
+/* ---------------------------------------------------------------------------------
+		FORMS
+--------------------------------------------------------------------------------- */
+.very-small			{ width: 3%;}
+.small			{ width: 15%;}
+.medium 			{ width: 35%;}
+.large			{ width: 60%;}
+.x-large			{ width: 80%;}
+.full			{ width: 98%;}
+
+label 		{ font-weight: bold; font-size: 13px; display: block;}
+p 			{ padding: 0px; margin: 0px;}
+.input 		{ border: 1px solid #CCCCCC;padding: 4px;background-color: #F3F3F3; }
+.select 		{ border: 1px solid #CCCCCC;padding: 3px 4px 3px 4px;background-color: #F3F3F3; }
+select 		{ padding: 0px;margin: 0px;}
+
+.input-p { 
+	margin: 0px 2px 0px 2px;
+	border: 1px solid #CCCCCC;
+	padding: 3px 4px 3px 4px;
+	background-color: #F3F3F3; 
+}
+
+.button	{
+	background-color: #D6D6D6;
+	color: #666666;
+	font-weight: bold;
+	border: 1px solid #CCCCCC;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	padding: 3px 4px 3px 4px;
+}
+
+.button-on	{
+	background-color: #ffffff;
+	color: #666666;
+	font-weight: bold;
+	border: 1px solid #CCCCCC;
+	margin-top: 7px;
+	margin-bottom: 7px;
+	padding: 3px 4px 3px 4px;
+}
+
+.checkbox 				{ padding: 0px;height: 15px;width: 18px;margin: 0 5px 0 5px;}
+
+.radio					{ height: 15px; width: 15px; padding: 0px; margin: 0 5px 0 5px;}
+
+.styled_textarea			{ margin-bottom: 10px; background-color: #F3F3F3; width: 95%; padding: 0px; border: 1px solid #CCCCCC;}
+input:focus, textarea:focus	{ background-color: #FFFFE1; border: 1px solid #999999;}
+
+.titulo {
+	font-size: 18px;
+	font-weight: bold;
+	color: #333333;
+	height:20px;
+}
+
+.menu-rapido { padding: 7px; font-size: 15px; font-weight: bold; color: #333333; margin: 0px 0px 10px 0px;border:1px solid #b6d5f3;background: #d9e9f9;}
+
+.pad-4 {
+	padding:4px;
+}
+
+.spa-4 {
+	margin:4px;
+}
+
+.div_exemplo {
+	float:left;
+	padding: 4px;
+	color: #ff0000;
+	font-size:11px;
+	margin-top:4px;
+	margin-left:5px;
+}
+
+.circulos {
+	text-align:center;color:#ffffff;font-weight:normal;font-size:11px;line-height:12px;
+}

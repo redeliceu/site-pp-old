@@ -1,0 +1,15 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML>
+<HEAD>
+<TITLE>Escola Infantil Pequeno Príncipe e Pequena Princesa</TITLE>
+</HEAD>
+<frameset rows="234,*" border="0" frameborder="0">
+	<frame name="cabecalho" scrolling="no" noresize src="paginas/cabecalho.php" target="index">
+	<frame name="index" scrolling="auto" noresize src="paginas/index.php">
+
+<noframes>
+<BODY>
+</BODY>
+</noframes>
+</frameset>
+</HTML>

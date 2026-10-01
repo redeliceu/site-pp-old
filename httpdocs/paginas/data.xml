@@ -1,0 +1,125 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+<Banner 
+	bannerWidth=""
+	bannerHeight=""
+	bannerBackgroundColor=""
+	bannerLoopCount=""
+	bannerCornerRadius=""
+	buttonsVerticalMargin="3"
+	buttonsHorizontalMargin="3"
+
+	textEmbed(Smooth)="yes"
+	textBoldAll="yes"
+	textSize="14"
+	textColor=""
+	textAreaWidth=""
+	textLineSpacing="0"	
+	textLetterSpacing="-0.5"	
+	textMarginLeft="12"
+	textMarginBottom="5"
+	textBackgroundBlur="yes"
+	textBackgroundColor="000000"
+	textBackgroundTransparency="20"	
+		
+	transitionType="2"
+	transitionVertical="no"
+	transitionDirection="1"
+	
+	transitionRandomEffects="yes"
+	transitionDelayTimeFixed="5" 
+	transitionDelayTimePerWord=".5"
+	transitionSpeed="8"
+	transitionBlur="yes"		
+	
+	showTimerClock="yes"
+	showNextButton="yes"
+	showBackButton="yes"
+	showNumberButtons="yes"
+	showNumberButtonsAlways="yes"
+	showNumberButtonsHorizontal="yes"
+	showNumberButtonsAscending="yes"
+	showPlayPauseOnTimer="yes"
+	
+	alignButtonsLeft="no"
+	alignTextTop="no"
+	
+	autoPlay="yes"	
+	imageResizeToFit="yes"
+	imageRandomizeOrder="no"
+	
+	>
+	
+	<item buttonLabel=""
+		image="../images/banner_1.jpg" 
+		link=""
+		target="_parent"
+		delay=""
+		textBlend="no">
+	</item>	
+
+	<item buttonLabel=""
+		image="../images/banner_2.jpg" 
+		link=""
+		target="_parent"
+		delay=""
+		textBlend="no">
+	</item>	
+
+	<item buttonLabel=""
+		image="../images/banner_3.jpg" 
+		link=""
+		target="_parent"
+		delay=""
+		textBlend="no">
+	</item>	
+
+	<item buttonLabel=""
+		image="../images/banner_4.jpg" 
+		link=""
+		target="_parent"
+		delay=""
+		textBlend="no">
+	</item>	
+
+	<item buttonLabel=""
+		image="../images/banner_5.jpg" 
+		link=""
+		target="_parent"
+		delay=""
+		textBlend="no">
+	</item>	
+
+	<item buttonLabel=""
+		image="../images/banner_6.jpg" 
+		link=""
+		target="_parent"
+		delay=""
+		textBlend="no">
+	</item>	
+
+	<item buttonLabel=""
+		image="../images/banner_7.jpg" 
+		link=""
+		target="_parent"
+		delay=""
+		textBlend="no">
+	</item>	
+
+	<item buttonLabel=""
+		image="../images/banner_8.jpg" 
+		link=""
+		target="_parent"
+		delay=""
+		textBlend="no">
+	</item>	
+
+	<item buttonLabel=""
+		image="../images/banner_9.jpg" 
+		link=""
+		target="_parent"
+		delay=""
+		textBlend="no">
+	</item>	
+	
+</Banner>
+

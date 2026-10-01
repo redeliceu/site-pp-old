@@ -1,0 +1,32 @@
+DirectoryIndex index.php
+ErrorDocument 400 index.php 
+ErrorDocument 401 index.php 
+ErrorDocument 403 index.php 
+ErrorDocument 404 index.php 
+ErrorDocument 500 index.php 
+Options FollowSymlinks
+RewriteEngine on
+#RewriteCond %{HTTPS} !=on
+#RewriteRule ^ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+#rewritecond %{http_host} ^pequenoprincipeeprincesa.com.br [nc]
+#rewriterule ^(.*)$ https://pequenoprincipeeprincesa.com.br/$1 [r=301,nc]
+
+#RewriteRule ^images/([a-zA-Z0-9\-._+]*)(/)?$ imagens/$1 [L,NC,QSA]
+
+RewriteRule ^(/)?$ index.php [L,NC]
+RewriteRule ^home(/)?$ paginas/index.php [L,NC]
+RewriteRule ^nossa-escola(/)?$ paginas/nossa-escola.php [L,NC]
+RewriteRule ^educacao-infantil(/)?$ paginas/educacao-infantil.php [L,NC]
+RewriteRule ^nossos-diferenciais(/)?$ paginas/nossos-diferenciais.php [L,NC]
+RewriteRule ^educacao-por-principios(/)?$ paginas/educacao-por-principios.php [L,NC]
+RewriteRule ^visita-virtual(/)?$ paginas/visita-virtual.php [L,NC]
+RewriteRule ^depoimentos(/)?$ paginas/depoimentos.php [L,NC]
+RewriteRule ^area-restrita(/)?$ paginas/area-restrita.php [L,NC]
+RewriteRule ^localizacao(/)?$ paginas/localizacao.php [L,NC]
+RewriteRule ^metodologia(/)?$ paginas/metodologia.php [L,NC]
+RewriteRule ^ensino-fundamental(/)?$ paginas/ensino-fundamental.php [L,NC]
+RewriteRule ^contato(/)?$ paginas/contato.php [L,NC]
+
+RewriteRule ^ar-mensagem(/)?$ paginas/ar-mensagem.php [L,NC]
+RewriteRule ^ar-comunicados(/)?$ paginas/ar-comunicados.php [L,NC]
+RewriteRule ^ar-galerias(/)?$ paginas/ar-galerias.php [L,NC]
