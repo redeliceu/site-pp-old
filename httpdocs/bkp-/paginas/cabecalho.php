@@ -5,9 +5,9 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
-<meta name="description" content="Escola infantil e Fundamental Pequeno Príncipe e Pequena Princesa" />
-<meta name="Keywords" content="Escola,baby,oportunidade,shopping,Tietê,professores,profissionais,Crescer,Educação,Mágico,Fantasia,Mundo,Crianças,infantil,Suzano,São Paulo,berçário,Creche,colégio,particular,escolinha,inglês,pequeno,príncipe,pequena,princesa,Bilíngüe,castelinho,castelo,sistema,ensino,Metodologia,Lúdico,Sandra,Azul,Rosa,Jardim,playground,aprendizado,aprender,material,didático,Principal,Diferencial,diferenciada,Nova,Novidade,portões,flores,uniforme,passeios,Conhecimento,children,Kids,Turma,reunião,direção,pedagógico,brinquedos,Crescer,meninos,meninas,boy,girl,grupo,vários,núcleo,centro,ótimo,atenção,Cuidado,especial,desenvolver,salas,cozinha,alimentação,livros,fadas,história,word" />
-<meta name="autor" content="Inotech Informática" />
+<meta name="description" content="ColÃ©gio Pequeno PrÃ­ncipe" />
+<meta name="Keywords" content="Escola,baby,oportunidade,shopping,Tietï¿½,professores,profissionais,Crescer,Educaï¿½ï¿½o,Mï¿½gico,Fantasia,Mundo,Crianï¿½as,infantil,Suzano,Sï¿½o Paulo,berï¿½ï¿½rio,Creche,colï¿½gio,particular,escolinha,inglï¿½s,pequeno,prï¿½ncipe,pequena,princesa,Bilï¿½ngï¿½e,castelinho,castelo,sistema,ensino,Metodologia,Lï¿½dico,Sandra,Azul,Rosa,Jardim,playground,aprendizado,aprender,material,didï¿½tico,Principal,Diferencial,diferenciada,Nova,Novidade,portï¿½es,flores,uniforme,passeios,Conhecimento,children,Kids,Turma,reuniï¿½o,direï¿½ï¿½o,pedagï¿½gico,brinquedos,Crescer,meninos,meninas,boy,girl,grupo,vï¿½rios,nï¿½cleo,centro,ï¿½timo,atenï¿½ï¿½o,Cuidado,especial,desenvolver,salas,cozinha,alimentaï¿½ï¿½o,livros,fadas,histï¿½ria,word" />
+<meta name="autor" content="Inotech Informï¿½tica" />
 <meta name="company" content="Inotech" />
 <meta name="revisit-after" content="7" />
 <link rev="made" href="mailto:jones@inotech.com.br" />
@@ -220,7 +220,7 @@ if (strpos($_SERVER["PHP_SELF"], "visita-virtual.php") > 0) {
     }
     ?>
 
-<title>Escola Infantil e Fundamental Pequeno Príncipe e Pequena Princesa</title>
+<title>ColÃ©gio Pequeno PrÃ­ncipe</title>
 <SCRIPT language="JavaScript">
 <!--
 img1= new Image(146,59); 
