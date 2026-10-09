@@ -34,8 +34,8 @@ function MascaraMoeda(objTextBox, SeparadorMilesimo, SeparadorDecimal, e){
 	if (whichCode == 8){
 		objTextBox.value = t.substring(0, t.length-1);
 	} 
-    key = String.fromCharCode(whichCode); // Valor para o c�digo da Chave
-    if (strCheck.indexOf(key) == -1) return false; // Chave inv�lida
+    key = String.fromCharCode(whichCode); // Valor para o código da Chave
+    if (strCheck.indexOf(key) == -1) return false; // Chave inválida
     len = objTextBox.value.length;
     for(i = 0; i < len; i++)
         if ((objTextBox.value.charAt(i) != '0') && (objTextBox.value.charAt(i) != SeparadorDecimal)) break;
@@ -89,14 +89,14 @@ function MascaraMoeda(objTextBox, SeparadorMilesimo, SeparadorDecimal, e){
 	theme_advanced_resizing : true 
 	});
 </script>
-<title>PAINEL DE CONTROLE - PEQUENO PRINCIPE E PEQUENA PRINCESA</title>
+<title>PAINEL DE CONTROLE - Colégio Pequeno Príncipe</title>
 </head>
 <body>
 <div id="conteudo">
 	<table width="100%" align="center" border="0" cellpadding="0" cellspacing="0">
 	<tr>
 		<td background="images/fundo-cabecalho.jpg" height="100">
-			<p class="titulo" style="margin-left:40px;"><font color="#ffffff">PAINEL DE CONTROLE - PEQUENO PRINCIPE E PEQUENA PRINCESA</font></p>
+			<p class="titulo" style="margin-left:40px;"><font color="#ffffff">PAINEL DE CONTROLE - Colégio Pequeno Príncipe</font></p>
 			<!--<img src="../images/logo.png" border="0" style="margin-left:40px;">-->
 		</td>
 	</tr>
