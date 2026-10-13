@@ -37,7 +37,7 @@ require("subcabecalho.php");
 				<table width="100%" align="center" border="0" cellpadding="0" cellspacing="3" style="margin-left:auto;margin-right:auto;">
 				<tr>
 					<td>
-						<b>Entre em contato conosco através do telefone ou e-mail</b>
+						<b>Entre em contato conosco atravÃ©s do telefone ou e-mail</b>
 					</td>
 				</tr>
 				</table>	
@@ -51,7 +51,7 @@ require("subcabecalho.php");
 				<table width="100%" align="center" border="0" cellpadding="0" cellspacing="3" style="margin-left:auto;margin-right:auto;">
 				<tr>
 					<td>
-						Endereço: Rua Augusta Aparecida Carvalho de Moraes, 421 - Jardim Santa Helena - Suzano
+						EndereÃ§o: Rua Augusta Aparecida Carvalho de Moraes, 421 - Jardim Santa Helena - Suzano
 					</td>
 				</tr>
 				<tr>
@@ -81,7 +81,7 @@ require("subcabecalho.php");
 					if ($valid == true) {
 						$erro = "";
 					} else {
-						$erro .= " - O código da imagem digitado está incorreto<br>";
+						$erro .= " - O cÃ³digo da imagem digitado estÃ¡ incorreto<br>";
 					}
 					if (strlen($_REQUEST["nome"]) <= 0) {
 						$erro .= " - Digite seu nome<br>";
@@ -90,7 +90,7 @@ require("subcabecalho.php");
 						$erro .= " - Digite seu e-mail<br>";
 					}
 					if (strpos($_REQUEST["email"], "@") <= 0) {
-						$erro .= " - O e-mail está incorreto<br>";
+						$erro .= " - O e-mail estï¿½ incorreto<br>";
 					}
 					if (strlen($erro) > 0) {
 						?>
@@ -110,13 +110,13 @@ require("subcabecalho.php");
 						$texto_mensagem .= "Nome: " . $_REQUEST["nome"] . "<br>";
 						$texto_mensagem .= "E-mail: " . $_REQUEST["email"] . "<br>";
 						$texto_mensagem .= "Telefone: " . $_REQUEST["telefone"] . "<br>";
-						$texto_mensagem .= "Endereço: " . $_REQUEST["endereco"] . "<br>";
+						$texto_mensagem .= "EndereÃ§o: " . $_REQUEST["endereco"] . "<br>";
 						$texto_mensagem .= "Bairro: " . $_REQUEST["bairro"] . "<br>";
 						$texto_mensagem .= "Cidade: " . $_REQUEST["cidade"] . "<br>";
 						$texto_mensagem .= "Cep: " . $_REQUEST["cep"] . "<br>";
 						$texto_mensagem .= "Idade dos filhos: " . $_REQUEST["idade"] . "<br>";
 						$texto_mensagem .= "Como teve conhecimento da escola? " . $_REQUEST["como"] . "<br>";
-						$texto_mensagem .= "Dúvidas, sugestões ou críticas " . $_REQUEST["duvidas"] . "<br><br>";
+						$texto_mensagem .= "DÃºvidas, sugestÃµes ou crÃ­ticas " . $_REQUEST["duvidas"] . "<br><br>";
 						mailp("contato@pequenoprincipeeprincesa.com.br", utf8_encode("Contato pelo site PequenoPrincipeePrincesa.com.br"), utf8_encode($texto_mensagem));
 						$acao = "sucesso";
 					}
@@ -128,7 +128,7 @@ require("subcabecalho.php");
 					<input type="hidden" name="acao" value="enviar">
 					<tr>
 						<td>
-							<b>Ou preencha o formulário abaixo</b>
+							<b>Ou preencha o formulÃ¡rio abaixo</b>
 						</td>
 					</tr>
 					<tr>
@@ -166,7 +166,7 @@ require("subcabecalho.php");
 					</tr>
 					<tr>
 						<td>
-							Endereço:
+							EndereÃ§o:
 						</td>
 					</tr>
 					<tr>
@@ -226,7 +226,7 @@ require("subcabecalho.php");
 					</tr>
 					<tr>
 						<td>
-							Digite aqui suas dúvidas, sugestões ou críticas
+							Digite aqui suas dÃºvidas, sugestÃµes ou crÃ­ticas
 						</td>
 					</tr>
 					<tr>
@@ -236,7 +236,7 @@ require("subcabecalho.php");
 					</tr>
 					<tr>
 						<td>
-							Digite o que você vê na imagem abaixo: <font color="red">*</font>
+							Digite o que vocÃª vÃª na imagem abaixo: <font color="red">*</font>
 						</td>
 					</tr>
 					<tr>

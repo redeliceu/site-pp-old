@@ -23,17 +23,17 @@ require("subcabecalho.php");
 		</tr>
 		<tr>
 			<td style="padding: 22px 10px 0px 10px;">
-				&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A Escola de Educação Infantil e Ensino Fundamental Pequeno Príncipe e Pequena Princesa - Ensino Bilíngue foi projetada para atender a criança em todas as fases da infância, numa visão pedagógica de desenvolvimento integral e transformação social.<br><br>
+				&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A Escola de EducaÃ§Ã£o Infantil e Ensino Fundamental ColÃ©gio Pequeno PrÃ­ncipe - Ensino BilÃ­ngue foi projetada para atender a crianÃ§a em todas as fases da infÃ¢ncia, numa visÃ£o pedagÃ³gica de desenvolvimento integral e transformaÃ§Ã£o social.<br><br>
 
-				&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;O espaço físico é amplo e prazeroso para a criança, pois compreende diferentes ambientes, como salas de aula adequadas para a faixa etária, sala bilíngue, biblioteca infantil, brinquedoteca e videoteca (sala de vídeo), sala de ballet, sala de judô, playground, auditório, quadra, refeitórios, entre outros.<br><br>
+				&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;O espaÃ§o fÃ­sico Ã© amplo e prazeroso para a crianÃ§a, pois compreende diferentes ambientes, como salas de aula adequadas para a faixa etÃ¡ria, sala bilÃ­ngue, biblioteca infantil, brinquedoteca e videoteca (sala de vÃ­deo), sala de ballet, sala de judÃ´, playground, auditÃ³rio, quadra, refeitÃ³rios, entre outros.<br><br>
 
-				&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Os funcionários e professores da escola são profissionais diferenciados, preparados para oferecer além do ensino de qualidade, amor e carinho aos pequenos, estando sempre aptos para prontamente atender às necessidades das crianças. No âmbito pedagógico, além da qualificação profissional, os professores recebem assessoria pedagógica constante na escola e dos sistemas de ensino adotados, o que garante maior qualidade na prestação dos serviços educacionais.<br><br>
+				&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Os funcionÃ¡rios e professores da escola sÃ£o profissionais diferenciados, preparados para oferecer alÃ©m do ensino de qualidade, amor e carinho aos pequenos, estando sempre aptos para prontamente atender Ã s necessidades das crianÃ§as. No Ã¢mbito pedagÃ³gico, alÃ©m da qualificaÃ§Ã£o profissional, os professores recebem assessoria pedagÃ³gica constante na escola e dos sistemas de ensino adotados, o que garante maior qualidade na prestaÃ§Ã£o dos serviÃ§os educacionais.<br><br>
 
-				&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Entendemos educação em seu sentido amplo como processo de transmitir à próxima geração conhecimento e valores que a capacitem a uma participação construtiva na sociedade. Assim nossa missão tem seus princípios nos valores cristãos: consciência, caráter, causa e efeito, soberania, respeito à diversidade, controle de atitudes e união, indispensáveis para o exercício consciente da cidadania.<br><br>
+				&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Entendemos educaÃ§Ã£o em seu sentido amplo como processo de transmitir Ã  prÃ³xima geraÃ§Ã£o conhecimento e valores que a capacitem a uma participaÃ§Ã£o construtiva na sociedade. Assim nossa missÃ£o tem seus princÃ­pios nos valores cristÃ£os: consciÃªncia, carÃ¡ter, causa e efeito, soberania, respeito Ã  diversidade, controle de atitudes e uniÃ£o, indispensÃ¡veis para o exercÃ­cio consciente da cidadania.<br><br>
 
-				&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;As situações de ensino propostas pela escola Pequeno Príncipe e Pequena Princesa são significativas e buscam privilegiar a capacidade criativa da criança, bem como sua espontaneidade, favorecendo sempre a interação, a participação, o senso crítico e a autonomia do aluno. <br><br>
+				&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;As situaÃ§Ãµes de ensino propostas pelo ColÃ©gio Pequeno PrÃ­ncipe sÃ£o significativas e buscam privilegiar a capacidade criativa da crianÃ§a, bem como sua espontaneidade, favorecendo sempre a interaÃ§Ã£o, a participaÃ§Ã£o, o senso crÃ­tico e a autonomia do aluno. <br><br>
 
-				&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A escola acredita na potencialidade do ser em desenvolvimento, proporcionando aos alunos, além das atividades pedagógicas e recreativas, também o ensino da língua inglesa, com aulas diárias em inglês além das aulas em português.
+				&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;O colÃ©gio acredita na potencialidade do ser em desenvolvimento, proporcionando aos alunos, alÃ©m das atividades pedagÃ³gicas e recreativas, tambÃ©m o ensino da lÃ­ngua inglesa, com aulas diÃ¡rias em inglÃªs alÃ©m das aulas em portuguÃªs.
 			</td>
 		</tr>
 		</table>
