@@ -6,8 +6,8 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
 <meta name="description" content="Colégio Pequeno Príncipe" />
-<meta name="Keywords" content="Escola,baby,oportunidade,shopping,Tiet�,professores,profissionais,Crescer,Educa��o,M�gico,Fantasia,Mundo,Crian�as,infantil,Suzano,S�o Paulo,ber��rio,Creche,col�gio,particular,escolinha,ingl�s,pequeno,pr�ncipe,pequena,princesa,Bil�ng�e,castelinho,castelo,sistema,ensino,Metodologia,L�dico,Sandra,Azul,Rosa,Jardim,playground,aprendizado,aprender,material,did�tico,Principal,Diferencial,diferenciada,Nova,Novidade,port�es,flores,uniforme,passeios,Conhecimento,children,Kids,Turma,reuni�o,dire��o,pedag�gico,brinquedos,Crescer,meninos,meninas,boy,girl,grupo,v�rios,n�cleo,centro,�timo,aten��o,Cuidado,especial,desenvolver,salas,cozinha,alimenta��o,livros,fadas,hist�ria,word" />
-<meta name="autor" content="Inotech Inform�tica" />
+<meta name="Keywords" content="Escola,baby,oportunidade,shopping,Tietê,professores,profissionais,Crescer,Educação,Mágico,Fantasia,Mundo,Crianças,infantil,Suzano,São Paulo,berçário,Creche,colégio,particular,escolinha,inglês,pequeno,príncipe,pequena,princesa,Bilíngue,castelinho,castelo,sistema,ensino,Metodologia,Lúdico,Sandra,Azul,Rosa,Jardim,playground,aprendizado,aprender,material,didático,Principal,Diferencial,diferenciada,Nova,Novidade,portões,flores,uniforme,passeios,Conhecimento,children,Kids,Turma,reunião,direção,pedagógico,brinquedos,Crescer,meninos,meninas,boy,girl,grupo,vários,núcleo,centro,optimo,atenção,Cuidado,especial,desenvolver,salas,cozinha,alimentação,livros,fadas,história,word" />
+<meta name="autor" content="Inotech Informática" />
 <meta name="company" content="Inotech" />
 <meta name="revisit-after" content="7" />
 <link rev="made" href="mailto:jones@inotech.com.br" />

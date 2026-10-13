@@ -6,15 +6,7 @@
 			<div style="height:306px;width:998px;overflow:hidden;">
 				<div class="slider-wrapper theme-nivo">
 					<div id="nivoSlider-55" class="nivoSlider">
-						<img src="../images/Banner_11.jpg" border="0">
-						<img src="../images/Banner_2.jpg" border="0">
-						<img src="../images/Banner_3.jpg" border="0">
-						<img src="../images/Banner_4.jpg" border="0">
-						<img src="../images/Banner_5.jpg" border="0">
-						<img src="../images/Banner_6.jpg" border="0">
-						<img src="../images/Banner_7.jpg" border="0">
-						<img src="../images/Banner_8.jpg" border="0">
-						<img src="../images/Banner_9.jpg" border="0">
+						<img src="../images/Banner_11.jpg" border="0" width="100%">
 					</div>
 					<script type="text/javascript">
 					jQuery(window).load(function(){

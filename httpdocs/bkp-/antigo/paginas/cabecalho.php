@@ -11,7 +11,7 @@
 <script src="lightbox/js/prototype.js" type="text/javascript"></script>
 <script src="lightbox/js/scriptaculous.js?load=effects,builder" type="text/javascript"></script>
 <script src="lightbox/js/lightbox.js" type="text/javascript"></script>
-<title>Escola Infantil Pequeno Príncipe e Pequena Princesa</title>
+<title>Escola Infantil Pequeno Prï¿½ncipe e Pequena Princesa</title>
 <SCRIPT language="JavaScript">
 <!--
 img1= new Image(32,37); 

@@ -9,7 +9,7 @@ require("subcabecalho.php");
 <tr>
 	<td width="662" height="156" background="../images/fundo-bem-vindos.jpg" style="background-repeat:no-repeat;" valign="top">
 		<div style="width:430px;height:78px;margin-top:60px;margin-left:32px;">
-			<p style="color:#605e5e;font-size:12px;">Prepare-se para entrar no castelo encantado dos prÌncipes e princesas, onde o faz de conta e o imagin·rio s„o totalmente reais. Aprender aqui È mais instigante do que os prÛprios contos de fadas e transforma o dia-a-dia numa grande alegria.</p>
+			<p style="color:#605e5e;font-size:12px;">Prepare-se para entrar no castelo encantado dos pr√≠ncipes e princesas, onde o faz de conta e o imagin√°rio s√£o totalmente reais. Aprender aqui √© mais instigante do que os pr√≥prios contos de fadas e transforma o dia-a-dia numa grande alegria.</p>
 		</div>
 	</td>
 	<td width="6"></td>
